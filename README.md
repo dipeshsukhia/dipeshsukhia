@@ -6,14 +6,11 @@
 
 > I'm Dipesh Sukhia, Software Developer extraordinaire. Welcome to my GitHub profile.
 
-> From INDIA.
+> From INDIA :india: .
 
 My personal website is [dipeshsukhia.github.io](https://dipeshsukhia.github.io/).
 
-- [LinkedIn](http://linkedin.com/in/dipeshsukhia) 👩‍💻
-- [Twitter](http://twitter.com/DipeshSukhia) :bird:
-- [Instagram](http://instagram.com/dipeshsukhia) 📸
-- [Facebook](https://www.facebook.com/DipeshSukhia/) 📺 
+- [LinkedIn](http://linkedin.com/in/dipeshsukhia)  - [Twitter](http://twitter.com/DipeshSukhia) - [Instagram](http://instagram.com/dipeshsukhia)  - [Facebook](https://www.facebook.com/DipeshSukhia/)  
 
 
 <!--
