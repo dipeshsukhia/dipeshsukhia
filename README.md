@@ -10,7 +10,7 @@
 
 My personal website is [dipeshsukhia.github.io](https://dipeshsukhia.github.io/).
 
-[LinkedIn](http://linkedin.com/in/dipeshsukhia) [Instagram](http://instagram.com/dipeshsukhia)  [Facebook](https://www.facebook.com/DipeshSukhia/)  [Twitter](http://twitter.com/DipeshSukhia)
+[LinkedIn](http://linkedin.com/in/dipeshsukhia) - [Instagram](http://instagram.com/dipeshsukhia) - [Facebook](https://www.facebook.com/DipeshSukhia/) - [Twitter](http://twitter.com/DipeshSukhia)
 
 
 <!--
