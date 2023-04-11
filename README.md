@@ -10,6 +10,12 @@
 
 My personal website is [dipeshsukhia.github.io](https://dipeshsukhia.github.io/).
 
+- [LinkedIn](http://linkedin.com/in/dipeshsukhia) 👩‍💻
+- [Twitter](http://twitter.com/DipeshSukhia) :bird:
+- [Instagram](http://instagram.com/dipeshsukhia) 📸
+- [Facebook](https://www.facebook.com/DipeshSukhia/) 📺 
+
+
 <!--
 **dipeshsukhia/dipeshsukhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
