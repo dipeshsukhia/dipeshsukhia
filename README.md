@@ -1,6 +1,6 @@
 # [dipeshsukhia.github.io](https://dipeshsukhia.github.io/)
 <img align="right" src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" />
-### Hello 👋
+# Hello 👋
 
 > I'm Dipesh Sukhia, Software Developer extraordinaire. Welcome to my GitHub profile.
 
