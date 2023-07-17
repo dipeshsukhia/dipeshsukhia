@@ -1,5 +1,5 @@
 # [dipeshsukhia.github.io](https://dipeshsukhia.github.io/)
-<img align="right" src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" />
+
 # Hello 👋
 
 > I'm Dipesh Sukhia, Software Developer extraordinaire. Welcome to my GitHub profile.
@@ -11,6 +11,8 @@
 > Website: [dipeshsukhia.github.io](https://dipeshsukhia.github.io/)
 
 [LinkedIn](http://linkedin.com/in/dipeshsukhia) - [Instagram](http://instagram.com/dipeshsukhia) - [Facebook](https://www.facebook.com/DipeshSukhia/) - [Twitter](http://twitter.com/DipeshSukhia)
+
+<img src="https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=true" />  -  <img src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" />
 <!--
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=true" />
