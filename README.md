@@ -10,9 +10,16 @@
 
 > Website: [dipeshsukhia.github.io](https://dipeshsukhia.github.io/)
 
-[LinkedIn](http://linkedin.com/in/dipeshsukhia) - [Instagram](http://instagram.com/dipeshsukhia) - [Facebook](https://www.facebook.com/DipeshSukhia/) - [Twitter](http://twitter.com/DipeshSukhia)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipeshsukhia/)](https://www.linkedin.com/in/dipeshsukhia/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DipeshSukhia)](https://twitter.com/DipeshSukhia)
+[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/DipeshSukhia/)](https://www.facebook.com/DipeshSukhia/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dipeshsukhia/)](https://www.instagram.com/dipeshsukhia/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=true" />  -  <img src="https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" />
+[![GitHub Stars](https://img.shields.io/github/stars/dipeshsukhia)](#)
+[![GitHub Followers](https://img.shields.io/github/followers/dipeshsukhia)](#)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=true)](#)
+[![Most Used Languages](https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff)](#)
 <!--
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=true" />
