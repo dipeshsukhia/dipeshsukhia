@@ -18,7 +18,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/dipeshsukhia?label=follow&style=social)](https://github.com/dipeshsukhia)
 [![GitHub Badge](https://img.shields.io/github/stars/dipeshsukhia?label=stars&style=social)](https://github.com/dipeshsukhia)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=true)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&count_private=true&hide_rank=true&rank_icon=true)](#)
 [![Most Used Languages](https://github-readme-stats-vmrfriz.vercel.app/api/top-langs/?username=dipeshsukhia&layout=compact&show_icons=true&langs_count=20&bg_color=30,e96443,904e95&text_color=fff&title_color=fff)](#)
 <!--
 <br>
